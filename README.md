@@ -11,3 +11,5 @@ Original Author
  Visit http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-dds-sinewave-generator/
  for theory and more details.
  All rights are with original author.
+ 
+ [![DOI](https://zenodo.org/badge/92184638.svg)](https://zenodo.org/badge/latestdoi/92184638)
